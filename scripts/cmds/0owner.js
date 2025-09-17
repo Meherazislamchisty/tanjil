@@ -30,7 +30,7 @@ module.exports = {
     // Owner & Bot Info
     const info = {
       botName: "✨YOUR 卝 চুন্নি✨",
-      prefix: "/",
+      prefix: "!",
       ownerName: "〲 T A N J I L ツ",
       uid: "61579509758592",
       username: "picchi143",
