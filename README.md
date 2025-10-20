@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Tanjil Hasan!
+# 👋 Hello, I'm Meheraz Islam!
 
-![Banner](https://files.catbox.moe/egw7cj.jpg)
+![Banner](https://files.catbox.moe/whaajm.png)
 
 I'm a curious and tech-enthusiastic individual, currently focused on learning new skills every day. I dream of making it big someday and becoming someone truly valuable in life.
 
