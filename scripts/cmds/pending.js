@@ -13,7 +13,7 @@ module.exports = {
       vi: "",
       en: ""
     },
-    category: "ArYan"
+    category: "PERMISSION"
   },
 
 langs: {
@@ -49,7 +49,7 @@ onReply: async function({ api, event, Reply, getLang, commandName, prefix }) {
             if (isNaN(ArYanIndex) || ArYanIndex <= 0 || ArYanIndex > Reply.pending.length) return api.sendMessage(getLang("invaildNumber", ArYanIndex), threadID, messageID);
             api.sendMessage(` 
 ╭────֍
-│PREFIX : /
+│PREFIX : ,
 ╰──────────────֍
 ╭────֍
 │Successful Connected ✅
