@@ -9,16 +9,16 @@ I'm a curious and tech-enthusiastic individual, currently focused on learning ne
 ## 🧑‍💻 About Me
 
 - 🔭 Currently exploring new knowledge and skills
-- 🌱 Not in school right now, but working hard for a better future
-- 🎮 Passionate about: Religion, Gaming (Free Fire), Music
-- 📍 Location: Dhaka, Mirpur 12, D Block, Muslim Bazaar-
+- 🌱 School: Al- Zaber Institute, Class 10, Science
+- 🎮 Passionate about: Religion, Gaming (Minecraft), Music
+- 📍 Location: Chattogram, Agrabad, Access Road, Bepari Para-
 
 ---
 
 
 ## 📫 Connect With Me
 
-- 🧵 Facebook: [TanJil Hasan](https://www.facebook.com/picchii.143?mibextid=ZbWKwL)
+- 🧵 Facebook: [مهراز إسلام تشيستي](https://www.facebook.com/chisty.57)
 - 📱 WhatsApp: +8801XXXXXXXXX
 
 ---
